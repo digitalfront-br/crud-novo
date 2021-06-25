@@ -1,17 +1,23 @@
 {
-    "name": "digitalfront/livewire-crud",
+    "name": "digitalfront/livewire",
     "description": "Scaffold Livewire Components, migrations, factory and crud in one command based on database tables",
     "keywords": [
         "DigitalFront",
-        "livewire-crud"
+        "laravel",
+        "livewire"
     ],
-    "homepage": "https://github.com/DigitalFront/livewire-crud",
+    "homepage": "https://github.com/digitalfront-br/livewire",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "George Chitechi",
             "email": "george@DigitalFront.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Thiago Augusto",
+            "email": "thiago.digitalfront@gmail.com",
             "role": "Developer"
         }
     ],
