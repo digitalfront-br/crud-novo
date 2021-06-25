@@ -1,0 +1,5 @@
+<x-page-content title="Dashboard">
+	<p>
+		Dashboard content
+	</p>
+</x-page-content>

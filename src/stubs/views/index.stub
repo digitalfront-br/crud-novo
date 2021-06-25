@@ -1,0 +1,9 @@
+<x-page-content title="{{modelNamePluralLowerCase}}">
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            @livewire('{{modelNamePluralLowerCase}}')
+        </div>     
+    </div>   
+</div>
+</x-page-content>

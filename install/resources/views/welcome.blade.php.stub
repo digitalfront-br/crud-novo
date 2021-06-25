@@ -1,0 +1,5 @@
+<x-page-content title="Welcome">
+	<p>
+		Welcome Page
+	</p>
+</x-page-content>
